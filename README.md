@@ -51,8 +51,11 @@ the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
  
    --Initial supply tokenomics
+   
   -75% Liquidity
-  -20% Dev Team Tokens 
+  
+  -20% Dev Team Tokens
+  
   -5% Future Rewards/ Distributions 
 
 ***
