@@ -13,7 +13,7 @@ ZEN-OH is a open source and free to claim Commodity representation of value toke
 **No Presale/ICO for ZEN-OH will be held;** we intend to launch an abundant and cheap coin for new users to use in the form of a commodity representation of value token; that may grow in value over time.
 ***
 
-ZEN-OH Can Be Claimed in several ways:
+**ZEN-OH Can Be Claimed in several ways:**
 
  -once per day by any user at a rate of 100 tokens a day per user; although the total claim amount will be limited to 10,000 total free claims a day.
  
