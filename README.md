@@ -44,6 +44,7 @@ the development team will maintain a donations wallet that will be set up to rec
 
 Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or ZEN-OH to this Address.)
 
+
 MATIC received from donations will be allotted in a 75%/25% split and the ZEN-OH token donations will be allocated 50%/50%
 
 75% MATIC collected along with 50% of the ZEN-OH tokens will be added to the liquidity pool; while the other 50% of ZEN-OH will be burned once a months.
