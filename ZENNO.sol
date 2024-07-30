@@ -2,7 +2,6 @@
 // **disclaimer from contract deployer and development team**
 // **use of this code, project, and commodity token is permitted as long as the user agrees to the following**
 // *We are not responsible for any negative use/misuse, any Profit/Losses, of this project or its commodity token of/by its users.** 
-//0x51aeaF0EaF0919da5bf5865aC6a0F4D270De060f test contract
 pragma solidity ^0.8.26;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
