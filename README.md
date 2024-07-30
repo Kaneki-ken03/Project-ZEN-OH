@@ -50,13 +50,15 @@ the remaining 25% MATIC collected from donations will be used to support further
 the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
  
-   --Initial supply tokenomics
+   --Initial supply tokenomics 
    
-  -75% Liquidity
+   -initial supply: 420,000,000 ZENOH
+   
+  -75% Liquidity Pool (315,000,000 ZENOH)
   
-  -20% Dev Team Tokens
+  -20% Dev Team Tokens (84,000,000 ZENOH)
   
-  -5% Future Rewards/ Distributions 
+  -5% Future Rewards/ Distributions (21,000,000 ZENOH)
 
 ***
 
