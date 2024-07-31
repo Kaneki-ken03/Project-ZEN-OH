@@ -13,11 +13,11 @@ Polygon MainNet Contract Deployed: 0x51aeaF0EaF0919da5bf5865aC6a0F4D270De060f
 
 **ZEN-OH Can Be Claimed in several ways:**
 
- -once per day by any user at a rate of 100 tokens a day per user; although the total claim amount will be limited to 10,000 total free claims a day.
+ * once per day by any user at a rate of 100 tokens a day per user; although the total claim amount will be limited to 10,000 total free claims a day.
  
- -once per 7 days by any holder of 1,000,000 tokens or more at a rate of 2,500 Tokens per user.
+ * once per 7 days by any holder of 1,000,000 tokens or more at a rate of 2,500 Tokens per user.
 
- -temporarily by any user at a rate of 10 tokens per claim via Promo Claim Function that can be claimed every 20 mins; Promo Token Claims are only available for a limited time and will be discontinued at a future date. we will then reserve the promo claim function for future promo's, giveaways, and offers.
+ *temporarily by any user at a rate of 10 tokens per claim via Promo Claim Function that can be claimed every 20 mins; Promo Token Claims are only available for a limited time and will be discontinued at a future date. we will then reserve the promo claim function for future promo's, giveaways, and offers.
 
 once we reach 10,000 users:
 ZEN-OH's current free claim rate will be halved every 3 months till the claim rate becomes 1.5625 ZEN-OH a day; per user.
@@ -29,11 +29,11 @@ to claim we recommend going to https://polygonscan.com/token/0x51aeaf0eaf0919da5
 
 then click "connect to web3" button to connect your wallet to polyscan; and then call/write any of the following functions from the list of functions on the contract:
 
- Free Claim(Function #5),
+ * Free Claim(Function #5),
  
- Promo Claim(Function #11),
+ * Promo Claim(Function #11),
  
- Holders Claim(Function #7);
+ * Holders Claim(Function #7);
  
 ***
 
@@ -51,15 +51,15 @@ the remaining 25% MATIC collected from donations will be used to support further
 the tokens liquidity pool will be listed on Sushi Swap or similar exchanges.
 
  
-   --Initial supply tokenomics 
+   --Initial supply tokenomics-- 
    
-   -initial supply: 420,000,000 ZENOH
+   * initial supply: 420,000,000 ZENOH
    
-  -75% Liquidity Pool (315,000,000 ZENOH)
+  * 75% Liquidity Pool (315,000,000 ZENOH)
   
-  -20% Dev Team Tokens (84,000,000 ZENOH)
+  * 20% Dev Team Tokens (84,000,000 ZENOH)
   
-  -5% Future Rewards/ Distributions (21,000,000 ZENOH)
+  * 5% Future Rewards/ Distributions (21,000,000 ZENOH)
 
 ***
 
