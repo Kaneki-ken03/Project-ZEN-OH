@@ -29,11 +29,11 @@ to claim we recommend going to https://polygonscan.com/token/0x51aeaf0eaf0919da5
 
 then click "connect to web3" button to connect your wallet to polyscan; and then call/write any of the following functions from the list of functions on the contract:
 
- Free Claim(function #5),
+ Free Claim(Function #5),
  
- Promo Claim(function #11),
+ Promo Claim(Function #11),
  
- Holders Claim(function #7);
+ Holders Claim(Function #7);
  
 ***
 
@@ -68,7 +68,7 @@ https://discord.gg/NmzQpnMNXW
 
 ***
 **to protect our users and our project community: we reserve the right to Blacklist wallet addresses that misuse/abuse this projects claim functions; our dedicated security team monitors block explorer on a day to day basis to ensure contract abuse and misuse does not occur. thigs we look for that violate our terms of contract use; holders claim being called by one wallet address and tokens being transferred from the holders wallet to another wallet to call holders claim again; if we notice this behavior the security team will temporarily pause the contract and it will result in an immediate blacklist of the new token holder address by our security team. this will lock the tokens in the blacklisted wallet preventing buying, selling, token transfers to and from the address, as well as preventing the use of any claim features in our contract. from a development standpoint this Pause and Blacklist feature are intended to be failsafe security measures to ensure the project and its users are protected from misuse/abuse. 
- we will note that the one function a blacklisted wallet is allowed to call is the burn function; and we ask that they burn their tokens in the blacklisted wallet via calling the burn function through the smart contract**
+ we will note that the one function a blacklisted wallet is allowed to call is the burn function; and we ask that they burn their tokens in the blacklisted wallet via calling the burn function through the smart contract(Function 3)**
 ***
 **Although we have implimented and taken some security measures to help protect our community and users; We are not responsible for any negative use/misuse, any Profit/Losses, of this project or its commodity token of/by its users.** 
 
