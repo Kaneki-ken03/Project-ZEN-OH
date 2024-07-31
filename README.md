@@ -39,7 +39,7 @@ then click "connect to web3" button to connect your wallet to polyscan; and then
 
 the development team will maintain a donations wallet that will be set up to receive donations in the form of ZEN-OH or MATIC.
 
-Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or ZEN-OH to this Address.)
+* **Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or ZEN-OH to this Address.)**
 
 
 MATIC received from donations will be allotted in a 75%/25% split and the ZEN-OH token donations will be allocated 50%/50%
