@@ -25,7 +25,7 @@ Polygon MainNet Contract Deployed: 0x51aeaF0EaF0919da5bf5865aC6a0F4D270De060f
   
 * ZEN-OH's current free claim rate will be halved every 3 months till the claim rate becomes 1.5625 ZEN-OH a day; per user.(6 halvings/ Note: future halvings past the 6th and or future discontinuation of free claims are subject to community vote before execution)
   
-* The holders claim rate will also be halved every 3 months till the claim rate becomes 39.0625 ZEN-OH per 7 days; per holder.(6 halvings/ Note: future halvings past the 6th are subject to community vote before execution)
+* The holders claim rate will also be halved every 3 months till the claim rate becomes 39.0625 ZEN-OH per 7 days; per holder.(6 halvings/ Note: future halvings past the 6th or future discontinuation of holder claims are subject to community vote before execution)
   
 * the promo claim will be discontinued till repurposed for future giveaways and/or promotions.
   
