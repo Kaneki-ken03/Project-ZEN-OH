@@ -67,7 +67,7 @@ the tokens liquidity pool will be listed on Sushi Swap or similar exchanges.
   
   * 20% Dev Team Tokens (84,000,000 ZENOH)
   
-  * 5% Future Rewards/ Distributions/ Partnerships (21,000,000 ZENOH)
+  * 5% Future Rewards/ Distributions/ (21,000,000 ZENOH)
 
 ***
 
