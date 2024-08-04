@@ -4,7 +4,7 @@ ZEN-OH(ZENOH) is a open source and free to claim Commodity representation of val
 
  *** 
  
-Polygon MainNet Contract Deployed: 0x51aeaF0EaF0919da5bf5865aC6a0F4D270De060f
+Polygon MainNet Token Contract Deployed: 0x51aeaF0EaF0919da5bf5865aC6a0F4D270De060f
 
 
 ***
