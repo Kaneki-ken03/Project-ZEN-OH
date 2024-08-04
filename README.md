@@ -18,11 +18,17 @@ Polygon MainNet Contract Deployed: 0x51aeaF0EaF0919da5bf5865aC6a0F4D270De060f
  * once per 7 days by any holder of 1,000,000 tokens or more at a rate of 2,500 Tokens per user.
 
  * temporarily by any user at a rate of 10 tokens per claim via Promo Claim Function that can be claimed every 20 mins; Promo Token Claims are only available for a limited time and will be discontinued at a future date. we will then reserve the promo claim function for future promo's, giveaways, and offers.
+   
+***
 
-once we reach 10,000 users:
-ZEN-OH's current free claim rate will be halved every 3 months till the claim rate becomes 1.5625 ZEN-OH a day; per user.(6 halvings) and
-the holders claim rate will also be halved every 6 months till the claim rate becomes 39.0625 ZEN-OH per 7 days; per holder.(6 halvings) and
-the promo claim will be discontinued till repurposed for future giveaways and/or promotions.
+* **once we reach 10,000 users:**
+  
+* ZEN-OH's current free claim rate will be halved every 3 months till the claim rate becomes 1.5625 ZEN-OH a day; per user.(6 halvings/ Note: future halvings past the 6th and or future discontinuation of free claims are subject to community vote before execution)
+  
+* The holders claim rate will also be halved every 3 months till the claim rate becomes 39.0625 ZEN-OH per 7 days; per holder.(6 halvings/ Note: future halvings past the 6th are subject to community vote before execution)
+  
+* the promo claim will be discontinued till repurposed for future giveaways and/or promotions.
+  
 ***
 
 **How To Claim:**
