@@ -70,6 +70,10 @@ the tokens liquidity pool will be listed on Sushi Swap or similar exchanges.
   * 5% Future Rewards/ Distributions/ (21,000,000 ZENOH)
 
 ***
+**we will burn 100% of LP tokens received from listing on UniSwap.**
+(we will update this Page with the transaction hash reffrencing the burn on block explorer here after listing)
+
+***
 
 **Join us on discord for future project update's, promo's, and announcements.**
 https://discord.gg/NmzQpnMNXW
