@@ -1,5 +1,5 @@
 # About Project ZEN-OH and How To Claim. 
-
+***
 ZEN-OH(ZENOH) is a open source and free to claim Commodity representation of value token that we hope will be adopted and used by all.
 
  *** 
@@ -83,4 +83,4 @@ https://discord.gg/NmzQpnMNXW
  we will note that the one function a blacklisted wallet is allowed to call is the burn function; and we ask that they burn their tokens in the blacklisted wallet via calling the burn function through the smart contract(Function 3)*** *
 ***
 * ***Although we have implimented and taken some security measures to help protect our community and users; We are not responsible for any negative use/misuse, any Profit/Losses, of this project or its commodity token of/by its users.*** *
-
+***
