@@ -63,14 +63,15 @@ the tokens liquidity pool will be listed on UniSwap or similar exchanges.
    
    * initial supply: 420,000,000 ZENOH
    
-  * 75% Liquidity Pool (315,000,000 ZENOH)
+  * 85% Liquidity Pool (357,000,000 ZENOH)
   
-  * 20% Dev Team/Colaborator Tokens (84,000,000 ZENOH)
+  * 10% Dev Team/Colaborator Tokens (42,000,000 ZENOH)
   
   * 5% Future Rewards/ Distributions/ (21,000,000 ZENOH)
 
 ***
 **we will burn 100% of LP tokens received from listing on UniSwap.**
+this will prevent the initial liquidity that was provided by the development team from ever actually being removed.
 (we will update this Page with the transaction hash reffrencing the burn on block explorer here after listing)
 
 ***
