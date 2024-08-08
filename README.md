@@ -76,8 +76,9 @@ this will prevent the initial liquidity that was provided by the development tea
 
 ***
 **similar to blockchain gas fees; every transfer includes a charity fee and a burn fee**
-the burn fee is a deflatinary mechanism included that burns a set fee amount of tokens on every transfer.
-the charity fee is a set fee amount paied out to the development team wallet.
+
+* the burn fee is a deflatinary mechanism included that burns a set fee amount of tokens on every transfer.
+* the charity fee is a set fee amount paied out to the development team wallet.
 
 ***
 
