@@ -56,7 +56,7 @@ MATIC received from donations will be allotted in a 75%/25% split and the ZEN-OH
 
 the remaining 25% MATIC collected from donations will be used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
 
-the tokens liquidity pool will be listed on Sushi Swap or similar exchanges.
+the tokens liquidity pool will be listed on UniSwap or similar exchanges.
 
  
    --Initial supply tokenomics-- 
