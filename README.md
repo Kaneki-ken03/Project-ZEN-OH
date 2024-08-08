@@ -73,14 +73,6 @@ the tokens liquidity pool will be listed on UniSwap or similar exchanges.
 **we will burn 100% of LP tokens received from listing on UniSwap.**
 this will prevent the initial liquidity that was provided by the development team from ever actually being removed.
 (we will update this Page with the transaction hash reffrencing the burn on block explorer here after listing)
-
-***
-**similar to blockchain gas fees; every transfer includes a charity fee and a burn fee**
-
-* the burn fee is a deflatinary mechanism included that burns a set fee amount of tokens on every transfer.
-  
-* the charity fee is a set fee amount paied out to the development team wallet.
-
 ***
 
 **Join us on discord for future project update's, promo's, and announcements.**
