@@ -65,7 +65,7 @@ the tokens liquidity pool will be listed on UniSwap or similar exchanges.
    
   * 75% Liquidity Pool (315,000,000 ZENOH)
   
-  * 20% Dev Team Tokens (84,000,000 ZENOH)
+  * 20% Dev Team/Colaborator Tokens (84,000,000 ZENOH)
   
   * 5% Future Rewards/ Distributions/ (21,000,000 ZENOH)
 
