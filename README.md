@@ -71,6 +71,7 @@ the tokens liquidity pool will be listed on UniSwap or similar exchanges.
 
 ***
 **we will burn 100% of LP tokens received from listing on UniSwap.**
+
 this will prevent the initial liquidity that was provided by the development team from ever actually being removed.
 (we will update this Page with the transaction hash reffrencing the burn on block explorer here after listing)
 ***
