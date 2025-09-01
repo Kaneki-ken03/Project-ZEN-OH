@@ -145,15 +145,48 @@ contract test is ERC20, ERC20Burnable, ERC20Pausable, AccessControl, ERC20Permit
               }
                function grantMinterRole (address _targetAddress) public onlyRole(PAUSER_ROLE) { _grantRole(MINTER_ROLE, _targetAddress);} 
 
-              function transfer(address recipient, uint256 amount) public notBlacklisted override returns (bool) {
-                uint256 burnAmount = amount * burnPercent/10000;
-                uint256 charityAmount = amount * charityPercent/10000;
-                   require(!isBlacklisted[msg.sender], 
-                  "Either The Sender Or Recipient Wallet Is Blacklisted For Project Misuse And Is No Longer Able To Use Use Our Contract"); 
-                  require(!isBlacklisted[recipient], 
-                 "Either The Sender Or Recipient Wallet Is Blacklisted For Project Misuse And Is No Longer Able To Use Use Our Contract"); 
-             if (amount >= 1000000 * 10 ** decimals()) { emit WhaleTransfer(msg.sender, recipient, amount); 
-              } 
+              event TransferWithFees(
+    address indexed from,
+    address indexed to,
+    uint256 amount,
+    uint256 burnAmount,
+    uint256 charityAmount,
+    uint256 totalFees
+);
+
+function transfer(
+    address recipient,
+    uint256 amount
+) public notBlacklisted override returns (bool) {
+    uint256 burnAmount = (amount * burnPercent) / 10000;
+    uint256 charityAmount = (amount * charityPercent) / 10000;
+    uint256 totalFees = burnAmount + charityAmount;
+
+    require(!isBlacklisted[recipient], "Recipient blacklisted");
+
+    if (isWhitelisted[msg.sender]) {
+        require(balanceOf(msg.sender) >= amount, "Insufficient balance");
+    } else {
+        require(
+            balanceOf(msg.sender) >= amount + totalFees,
+            "Insufficient balance (includes fees)"
+        );
+        _transfer(msg.sender, charityAddress, charityAmount);
+        _burn(msg.sender, burnAmount);
+    }
+
+    // Emit event with fee breakdown
+    emit TransferWithFees(
+        msg.sender,
+        recipient,
+        amount,
+        burnAmount,
+        charityAmount,
+        totalFees
+    );
+
+    return super.transfer(recipient, amount);
+}
                  else if (amount >= 500000 * 10 ** decimals() && amount <= 999999 * 10 ** decimals()) { 
                       emit SharkTransfer(msg.sender, recipient, amount); } 
                     else if (amount >= 250000 * 10 ** decimals() && amount <= 499999 * 10 ** decimals()) { 
